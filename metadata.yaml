@@ -1,0 +1,29 @@
+_repo: The-Harvest-of-Years_18332
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewell, Martha Lewis Beckwith
+    alias: Ewell, M. L. B. (Martha Lewis Beckwith)
+    birthdate: 1841
+    deathdate: 1902
+    gutenberg_agent_id: '7951'
+    url: http://www.gutenberg.org/2009/agents/7951
+description: ''
+gutenberg_issued: '2006-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Conduct of life -- Fiction'
+title: The Harvest of Years
+url: http://www.gutenberg.org/ebooks/18332
